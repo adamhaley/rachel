@@ -65,3 +65,10 @@ div#nav{
 a{
 	color:#7e4d2c;
 }
+
+
+div.press{
+	position:relative;
+	height:200px;
+	width:100%;
+}
